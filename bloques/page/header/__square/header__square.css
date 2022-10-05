@@ -1,3 +1,4 @@
+@import url(../../rotation/rotation.css);
 .header__square {
   height: 568px;
   width: 568px;
@@ -5,4 +6,6 @@
   position: absolute;
   top: 64px;
   right: 0;
+  transform: rotate(-15deg);
+  animation: rotation 20s linear infinite;
 }

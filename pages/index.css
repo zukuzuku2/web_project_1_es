@@ -18,3 +18,7 @@
 @import url(../bloques/page/kaufman/kaufman.css);
 @import url(../bloques/page/resources/resources.css);
 @import url(../bloques/page/footer/footer.css);
+* {
+  margin: 0;
+  padding: 0;
+}

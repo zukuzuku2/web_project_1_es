@@ -1,5 +1,3 @@
-@import url(../header/__square/header__square.css);
-@import url(../kaufman/__triangle/kaufman__triangle.css);
 @keyframes rotation {
   from {
     transform: rotate(-15deg);
